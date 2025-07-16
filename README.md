@@ -36,7 +36,7 @@ AceInterview is a smart AI-powered interview preparation platform built using th
 ![Home Page](./assets/home.png)
 
 ### 📊 Dashboard
-![Dashboard](./assets/dashboard.png)
+![Dashboard](https://github.com/Darshangnayak/Ace-Interview/blob/489e4754a3db8964dfdaf1ed079d63d72284d2d7/Dashboard.png)
 
 ### 🔐 Login & Signup
 ![Login and Signup](./assets/login-signup.png)
