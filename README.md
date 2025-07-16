@@ -53,6 +53,13 @@ AceInterview is a smart AI-powered interview preparation platform built using th
 ### 🗑️ Delete Session
 ![Delete Session](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/DeleteSession.png)
 
+## 🧪 Demo Login
+
+You can test the application using the following demo credentials:
+
+- **Email:** `alice@example.com`
+- **Password:** `password123`
+
 
 ## 📦 Installation
 
@@ -88,9 +95,3 @@ npm run dev
 cd ../frontend
 npm run dev
 
-## 🧪 Demo Login
-
-You can test the application using the following demo credentials:
-
-- **Email:** `alice@example.com`
-- **Password:** `password123`
