@@ -33,25 +33,25 @@ AceInterview is a smart AI-powered interview preparation platform built using th
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/home.png)
+![Home Page](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/HomePage%20(2).png)
 
 ### 📊 Dashboard
 ![Dashboard](https://github.com/Darshangnayak/Ace-Interview/blob/489e4754a3db8964dfdaf1ed079d63d72284d2d7/Dashboard.png)
 
 ### 🔐 Login & Signup
-![Login and Signup](./assets/login-signup.png)
+![Login and Signup](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/SignUp%26Login%20.jpg)
 
 ### 🆕 New Session
-![New Session](./assets/new-session.png)
+![New Session](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/NewSession.png)
 
 ### ❓ Question Generation
-![Question Generation](./assets/question-generation.png)
+![Question Generation](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/QuestionGeneration.png)
 
 ### ➕ Load More Questions
-![Load More Questions](./assets/load-more.png)
+![Load More Questions](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/LoadMore.png)
 
 ### 🗑️ Delete Session
-![Delete Session](./assets/delete-session.png)
+![Delete Session](https://github.com/Darshangnayak/Ace-Interview/blob/861d25f6123ad8ba071bcd50d6d234fd451a9b2e/DeleteSession.png)
 
 
 ## 📦 Installation
