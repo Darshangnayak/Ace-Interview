@@ -55,7 +55,11 @@ AceInterview is a smart AI-powered interview preparation platform built using th
 
  ### 🎥 Demo Video
 
-[Click to watch the demo](https://github.com/Darshangnayak/Ace-Interview/raw/main/project%20video%20(1)%20(1).mp4)
+<video width="100%" controls>
+  <source src="https://github.com/Darshangnayak/Ace-Interview/raw/main/project%20video%20(1)%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 🧪 Demo Login
 
